@@ -21,7 +21,9 @@ python3 cliente.py carlos subir prueba.txt
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 descargar -> descarga un archivo de las carpetas del servidor a la carpeta del cliente.
+
 La extensión del archivo debe ser .index independientemente del tipo de archivo
+
 Al descargarlo recupera la extensión original
 
 ejemplo:  
