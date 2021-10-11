@@ -6,6 +6,7 @@ Para usarlo:
 
 Correr los servidores en distintas terminales:   
 En cada terminal -> python3 servidor.py num
+
 num -> 1, 2, 3, 4, 5
 
 Correr el cliente:  
